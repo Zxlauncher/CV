@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-whatsapp",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "http://wa.me/6281398483240",
     },
   ],
 };
